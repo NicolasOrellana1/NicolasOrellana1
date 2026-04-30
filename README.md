@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:nicolas.ism2004@gmail.com"><img src="https://img.shields.io/badge/Email-nicolas.ism2004@gmail.com-white?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335"/></a>&nbsp;
-  <a href="https://linkedin.com/in/nicolas-orellana"><img src="https://img.shields.io/badge/LinkedIn-nicolas--orellana-white?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2"/></a>&nbsp;
+  <a href="https://linkedin.com/in/nicolas-orellana-5160611a3"><img src="https://img.shields.io/badge/LinkedIn-nicolas--orellana-white?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2"/></a>&nbsp;
   <img src="https://img.shields.io/badge/Open%20to%20Work-Internships%20%26%20Full--Time-white?style=flat-square&logo=checkmarx&logoColor=white&labelColor=238636&color=238636"/>
 </p>
 
@@ -135,5 +135,5 @@ I'm a senior CS student at the University of Central Florida passionate about bu
 <p align="center">
   <i>If you're working on something interesting in ML infrastructure, backend systems, or data engineering — I'd love to talk.</i><br/><br/>
   <a href="mailto:nicolas.ism2004@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-  <a href="https://linkedin.com/in/nicolas-orellana"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/nicolas-orellana-5160611a3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
