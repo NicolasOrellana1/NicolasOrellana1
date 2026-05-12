@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Nicolas 👋</h1>
 
 <p align="center">
-  <b>CS @ UCF (GPA 3.91) · Backend Systems · Machine Learning · Real-World Impact</b><br/>
+  <b>CS @ UCF (GPA 3.92) · Backend Systems · Machine Learning · Real-World Impact</b><br/>
   <i>I build things that work at scale — from PyTorch models to distributed pipelines to production APIs.</i>
 </p>
 
@@ -18,7 +18,6 @@
 I'm a senior CS student at the University of Central Florida passionate about building systems that are fast, correct, and production-ready. My work sits at the intersection of **machine learning**, **backend engineering**, and **data-intensive systems** — I care deeply about the full stack from model training to deployment.
 
 - 🔭 Currently building a **thermal runaway prediction system** for Siemens Energy using PyTorch LSTMs on live battery telemetry
-- 🏗️ Recently shipped a **full-stack facial recognition system** at Solinfra (97% accuracy, AES-256 PII encryption, 30% DB speedup)
 - 🧠 I love distributed systems, anomaly detection, API design, and making complex things simple
 - 📍 Based in Orlando, FL — open to remote & hybrid
 
